@@ -1,0 +1,21 @@
+challenge2 Document:
+-------------------
+1.Used two classes Customer and CustomerDetails.
+2.Customer class having constructor and toString() with setter and getter methods to render the data through object.
+3.Used HashMap class in CustomerDetails for better performance and store data than use the keySet() to iterate all the contents of the HashMap. 
+
+Answer for cutomerdetails::::
+
+1----Customer [id=101, name=java, phoneno=876765, address=NC]
+2----Customer [id=102, name=j2ee, phoneno=453765, address=IN]
+3----Customer [id=103, name=spring, phoneno=8765365, address=NT]
+4----Customer [id=104, name=hibernate, phoneno=9196765, address=MA]
+
+
+Challenge2 Document:
+-------------------
+1.Used recursive function to reverse a string.
+2.Check that given string and resulted string are equal or not to show the palindrome .
+
+Answer for Reverse String::::
+  given string is palindrome 

@@ -8,7 +8,7 @@ public class StringReverse {
 		 String riversRst =	sr.stringReverseMethod(givenStr);
 		 
 		 if(givenStr.equals(riversRst)){
-			 System.out.println("palindrom");
+			 System.out.println("given string is palindrome ");
 		 }else
 		 {
 			 System.out.println(riversRst);
